@@ -8,7 +8,8 @@
 
 | Type                    | Count (Total) | Count (Per PCB) | Value              | Footprint | Part Number               | Link                                                                                                                                                                                                                                                      |
 |-------------------------|---------------|-----------------|--------------------|------------|---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| IC(MCU)                 | 2             | 1               | -                  | AT90USB1286| AT90USB1286               | https://www.mouser.com/ProductDetail/Microchip-Technology-Atmel/AT90USB1286-AU?qs=rBGENRD8NwLZmFbZhqtRLw%3D%3D                                                                                                                                            |
+| IC(MCU)                 | 2 | 1 | - | QFN50P900X900X100-65N | AT90USB1286 | https://www.mouser.com/ProductDetail/Microchip-Technology-Atmel/AT90USB1286-AU?qs=rBGENRD8NwLZmFbZhqtRLw%3D%3D |
+| Bluetooth Module        | 1             | 1               | -                  | ?          | 2633                      | https://www.adafruit.com/product/2633                                                                                                                                                                                                                     |
 
 ## Fasteners / Hardware
 
